@@ -1,5 +1,8 @@
 #Curs 3 -> Probleme OJI
-- Probleme de OJI care se rezolva cu stivelor sau cozilor
+## Tema
+- [Multiplu](http://www.infoarena.ro/problema/multiplu)
+
+## Probleme de OJI care se rezolva cu stivelor sau cozilor
 - [Cifre4](http://www.infoarena.ro/problema/cifre4)
 - [Alee](http://www.infoarena.ro/problema/alee)
 - [Vila](http://www.infoarena.ro/problema/vila)
