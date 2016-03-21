@@ -14,4 +14,6 @@
 
 - [Zparcurgere](http://www.infoarena.ro/problema/z)
 - [Fractal](http://www.infoarena.ro/problema/fractal)
+- [Oras](http://varena.ro/problema/oras)
+- [Alee](http://varena.ro/problema/alee)
 
