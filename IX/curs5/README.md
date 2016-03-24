@@ -18,6 +18,14 @@
 - Numărul de pătrate perfecte între a și b.
 
 ## Tema
+- [AfisareNumere](http://www.pbinfo.ro/?pagina=probleme&id=328)
+- [P10](http://www.pbinfo.ro/?pagina=probleme&id=1362)
+- [Suma div](http://www.pbinfo.ro/?pagina=probleme&id=376)
+- [Suma div impari](http://www.pbinfo.ro/?pagina=probleme&id=387)
+- [Nr div](http://www.pbinfo.ro/?pagina=probleme&id=388)
+
+
+##Next up
 - [La Scoala](http://varena.ro/problema/lascoala)
 - [Balaur](http://varena.ro/problema/balaur)
 - [Pozitii](http://varena.ro/problema/pozitii)
