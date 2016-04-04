@@ -4,3 +4,7 @@
 - Coada
 - BFS (?)
 - TBD: Grafuri?
+
+
+##probleme discutate
+- [Dreptunghiuri2](http://www.infoarena.ro/problema/dreptunghiuri2)
