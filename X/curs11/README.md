@@ -8,9 +8,9 @@ Discutate:
 - [WGC problem](http://britton.disted.camosun.bc.ca/jbwolfgoat.htm)
 
 Tema:
-- [Reinvent](http://www.infoarena.ro/problema/reinvent)
-- [Berarii2](http://www.infoarena.ro/problema/berarii2)
 - [Grarb](http://www.infoarena.ro/problema/grarb)
+- [Berarii2](http://www.infoarena.ro/problema/berarii2)
+- [Reinvent](http://www.infoarena.ro/problema/reinvent)
 - [Painting](http://www.infoarena.ro/problema/painting)
 - [Nivele2](http://www.infoarena.ro/problema/nivele2)
 - [Multiplu](http://www.infoarena.ro/problema/multiplu)
