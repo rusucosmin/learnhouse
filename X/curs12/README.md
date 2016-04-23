@@ -24,7 +24,6 @@ Tema:
 
 #Link-uri utile
 - [Teoria grafelor - Anul I, Sem II](http://www.cs.ubbcluj.ro/~rlupsa/edu/grafe/)
-- [http://www.spoj.com/problems/PPATH/)
 
 #Gandire
 - [Triplet](http://www.infoarena.ro/problema/triplet)
