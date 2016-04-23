@@ -27,7 +27,6 @@ Next-up:
 - [Critice2](http://www.infoarena.ro/problema/critice2)
 - [Dominouri](http://www.infoarena.ro/problema/dominouri)
 - [EasyGraph](http://www.infoarena.ro/problema/easygraph)
-- [Grarb](http://www.infoarena.ro/problema/grarb)
 - [Razboi](http://www.infoarena.ro/problema/razboi)
 - [Sediu](http://www.infoarena.ro/problema/sediu)
 - [Srevni](http://www.infoarena.ro/problema/srevni)
