@@ -5,6 +5,8 @@ TopCoder - Introduction to Graphs and Their Data Structures:
 - [Section 2](https://www.topcoder.com/community/data-science/data-science-tutorials/introduction-to-graphs-and-their-data-structures-section-2/)
 - [Section 3](https://www.topcoder.com/community/data-science/data-science-tutorials/introduction-to-graphs-and-their-data-structures-section-3/)
 
+- [Parsarea numerelor](http://www.infoarena.ro/parsarea-numerelor)
+
 #Probleme
 
 Discutate:
