@@ -4,5 +4,5 @@
 
 ##Tema
 
-- Sa va faceti cont pe [infoarena](www.infoarena.ro)
-- Problema [adunare](infoarena.ro/problema/adunare)
+- Sa va faceti cont pe [infoarena](http://www.infoarena.ro/)
+- Problema [adunare](http://www.infoarena.ro/problema/adunare)
