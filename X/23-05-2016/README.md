@@ -7,6 +7,5 @@
 - [Retele](http://www.infoarena.ro/problema/retele)
 - [Sortare topologica](http://www.infoarena.ro/problema/sortaret)
 
-
 ##Tema
-- Implementati cele doua probleme de mai sus si submitati pe infoarena
+- Implementati probleme de mai sus si submitati pe infoarena
