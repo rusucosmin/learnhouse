@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1463066543 source:/home/cosmin/work/learnhouse/IX/12-05-2016/Euclid2/main.cpp
+	<iostream>
+	<fstream>
+
